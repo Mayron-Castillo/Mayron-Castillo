@@ -3,9 +3,6 @@
   <a href="https://www.linkedin.com/in/mayron-castillo/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="12mayron12@gmail.com" target="_blank" style="display: inline-block;">
-  <img src="https://img.shields.io/badge/Gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=%23D14836" alt="gmail" />
-  </a>
   
 ## Self-taught Web Developer 
 

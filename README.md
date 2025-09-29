@@ -6,7 +6,7 @@
   
 ## Self-taught Web Developer 
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, React and TypeScript.
 - 📚 I’m currently learning clean code principles, reusable components, and frontend best practices, including UX/UI design.
   
 <h2> 🛠️ My Skills </h2>

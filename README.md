@@ -12,6 +12,6 @@
 <h2> 🛠️ My Skills </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,vite,typescript" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,vite,typescript,cs,java" />
   </a>
 </p>
